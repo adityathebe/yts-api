@@ -1,0 +1,25 @@
+{
+  "name": "yts",
+  "version": "1.0.0",
+  "description": "An API for YTS Torrent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityathebe/yts.git"
+  },
+  "author": "Aditya Thebe <me@adityathebe.com> (http://adityathebe.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityathebe/yts/issues"
+  },
+  "homepage": "https://github.com/adityathebe/yts#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
